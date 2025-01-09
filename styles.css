@@ -1,0 +1,14 @@
+:root{
+  --slate-900: #1F314F;
+  --slate-500: #68778D;
+  --slate-300: #D5E1EF;
+  --white: #FFFFFF;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Outfit", serif;
+}
